@@ -1,10 +1,13 @@
 # Table of contents
 
-* [Collect - Iceland](README.md)
-  * [Examples](collect-iceland/examples.md)
-  * [Collection Procedure](collect-iceland/collection-procedure.md)
+## Test
 
-## Group 1
+* [Page 2](README.md)
+* [Test Page](test/test-page/README.md)
+  * [Page 1](test/test-page/page-1.md)
 
-* [Test Page](group-1/test-page/README.md)
-  * [Page 1](group-1/test-page/page-1.md)
+## Group 2
+
+* [Collect - Iceland](group-2/collect-iceland/README.md)
+  * [Examples](group-2/collect-iceland/examples.md)
+  * [Collection Procedure](group-2/collect-iceland/collection-procedure.md)

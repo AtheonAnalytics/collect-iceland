@@ -4,7 +4,7 @@ description: >-
   from the UK retailer, Iceland.
 ---
 
-# Collect - Iceland
+# Collection Procedure
 
 ## Source System
 

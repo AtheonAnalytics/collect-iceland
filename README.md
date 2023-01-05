@@ -1,2 +1,2 @@
-# Collect - Iceland
+# Page 2
 
