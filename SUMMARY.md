@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Collect - Iceland](README.md)
+* [Example Files](example-files.md)
