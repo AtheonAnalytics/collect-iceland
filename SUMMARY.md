@@ -11,3 +11,7 @@
 * [Collect - Iceland](group-2/collect-iceland/README.md)
   * [Examples](group-2/collect-iceland/examples.md)
   * [Collection Procedure](<README (1).md>)
+
+## Test 2
+
+* [Page 3](test-2/page-3.md)
