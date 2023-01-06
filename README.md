@@ -1,10 +1,8 @@
----
-description: >-
-  This document describes the process of collection of retailer performance data
-  from the UK retailer, Iceland.
----
-
 # Collection Procedure
+
+This document describes the process of collection of retailer performance data from the UK retailer, Iceland.
+
+<figure><img src=".gitbook/assets/Iceland_Foods_logo.png" alt=""><figcaption></figcaption></figure>
 
 ## Source System
 
