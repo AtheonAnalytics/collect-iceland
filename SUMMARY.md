@@ -10,4 +10,4 @@
 
 * [Collect - Iceland](group-2/collect-iceland/README.md)
   * [Examples](group-2/collect-iceland/examples.md)
-  * [Collection Procedure](README.md)
+  * [Collection Procedure](<README (1).md>)
