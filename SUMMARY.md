@@ -15,5 +15,7 @@
 
 ## Test 2
 
-* [Page 3](test-2/page-3.md)
+* [Page 3](test-2/page-3/README.md)
+  * [Page 6](test-2/page-3/page-6/README.md)
+    * [Page 7](test-2/page-3/page-6/page-7.md)
 * [Page 4](test-2/page-4.md)
