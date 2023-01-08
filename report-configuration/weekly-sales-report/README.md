@@ -10,3 +10,7 @@ Expected characteristics:
 | File Type         | CSV                              |
 | Encoding          | UTF-8                            |
 
+{% content-ref url="example-report.md" %}
+[example-report.md](example-report.md)
+{% endcontent-ref %}
+

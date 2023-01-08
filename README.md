@@ -16,4 +16,4 @@ No configuration is available.
 
 No report configuration is available for any reports. See the examples for expected reports.
 
-<table><thead><tr><th>Report Name</th><th data-type="select" data-multiple>Topic</th><th>Frequency of Availability</th><th>Data Grain</th></tr></thead><tbody><tr><td><a href="report-configuration/weekly-sales-report/">Weekly Sales Report</a></td><td></td><td>Weekly</td><td>Estate, Week, SKU</td></tr><tr><td><a href="report-configuration/weekly-stock-report/">Weekly Stock Report</a></td><td></td><td>Weekly</td><td>Depot, Week, SKU</td></tr></tbody></table>
+<table><thead><tr><th data-type="content-ref">Report Name</th><th data-type="select" data-multiple>Topic</th><th>Frequency of Availability</th><th>Data Grain</th></tr></thead><tbody><tr><td><a href="report-configuration/weekly-sales-report/">weekly-sales-report</a></td><td></td><td>Weekly</td><td>Estate, Week, SKU</td></tr><tr><td><a href="report-configuration/weekly-stock-report/">weekly-stock-report</a></td><td></td><td>Weekly</td><td>Depot, Week, SKU</td></tr></tbody></table>
