@@ -6,7 +6,7 @@ No configuration is available for this report.
 
 ## Expected Characteristics
 
-| Aspect            | Characteristics                  |
+| Aspect            | Characteristic                   |
 | ----------------- | -------------------------------- |
 | Naming Convention | Weekly Stock Report\_\[YYYYMMDD] |
 | File Type         | CSV                              |
