@@ -11,6 +11,7 @@ No configuration is available for this report.
 | Naming Convention | Weekly Stock Report\_\[YYYYMMDD] |
 | File Type         | CSV                              |
 | Encoding          | UTF-8                            |
+| File Size         | 2 KB -> 100 KB                   |
 
 ## Example Report
 
